@@ -1,0 +1,14 @@
+{
+  "name": "sound-like-a-human",
+  "description": "Sound Like a Human, a writing skill by Viktorious LLC.",
+  "owner": {
+    "name": "Viktorious LLC"
+  },
+  "plugins": [
+    {
+      "name": "human",
+      "source": "./",
+      "description": "Write, rewrite or check text so it reads like a person wrote it, and once set up, like you in particular."
+    }
+  ]
+}

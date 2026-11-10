@@ -1,0 +1,21 @@
+{
+  "name": "human",
+  "displayName": "Sound Like a Human",
+  "version": "0.1.0",
+  "description": "Write, rewrite or check text so it reads like a person wrote it, and once set up, like you in particular. Bans the words and sentence shapes that give AI writing away, with commands for posts, articles, email, documents, slides and talks.",
+  "author": {
+    "name": "Viktorious LLC"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "writing",
+    "ai-slop",
+    "voice",
+    "style",
+    "editing",
+    "linkedin",
+    "email"
+  ],
+  "homepage": "https://github.com/ViktoriousLLC/sound-like-a-human#readme",
+  "repository": "https://github.com/ViktoriousLLC/sound-like-a-human"
+}
